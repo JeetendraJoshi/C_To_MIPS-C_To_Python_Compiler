@@ -16,7 +16,7 @@ To run the MIPS Compiler use command:
 
 Both the compiler and translator were implemented from scratch without the use of the pre-existing skeleton code. 
 
-# Acknowlegdements
+# Acknowledgements
 
 Freddie Mccallum for collaborating on the implementation of both the MIPS Compiler and Python Translator in addition to testing of the compiler and translator.
 
